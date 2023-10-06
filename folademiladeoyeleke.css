@@ -1,0 +1,16 @@
+body {
+  background-color: rgb(232, 206, 233);
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  padding: 0% 5%;
+}
+#canvas-container,
+.button-container,
+header,
+h2 {
+  text-align: center;
+}
+button{
+    background-color: blueviolet;
+    color: aliceblue;
+    border-radius: 5px;
+}
